@@ -1,0 +1,14 @@
+{
+  "name": "hellokitty",
+  "version": "1.0.0",
+  "description": "bot hello kitty",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hello kitty corporation",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
